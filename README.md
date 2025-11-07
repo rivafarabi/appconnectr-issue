@@ -1,6 +1,6 @@
 # 🧾 AppConnectr Feedback & Issue Tracker
 
-Welcome to the official issue tracker for **Applausible**
+Welcome to the official issue tracker for **AppConnectr**
 
 If you've found a bug, have a feature request, or just want to share feedback — you're in the right place!
 
@@ -8,7 +8,7 @@ If you've found a bug, have a feature request, or just want to share feedback �
 
 ## 📥 How to Submit an Issue
 
-1. Go to the [Issues]([https://github.com/rivafarabi/applausible-issue/issues](https://github.com/rivafarabi/applausible-issue/issues)) tab.
+1. Go to the [Issues]([https://github.com/rivafarabi/appconnectr-issue/issues](https://github.com/rivafarabi/appconnectr-issue/issues)) tab.
 2. Click **New Issue**.
 3. Choose between:
    - **Bug Report**
@@ -23,7 +23,7 @@ When reporting a bug, please include:
 
 - Device model (e.g. iPhone 14, Samsung Galaxy S25)
 - OS version (e.g. iOS 17.3, Android 15)
-- Applausible app version
+- AppConnectr app version
 - Steps to reproduce the issue
 - Screenshots (if applicable)
 
@@ -31,7 +31,7 @@ When reporting a bug, please include:
 
 ## 🙌 Thank You
 
-Your feedback helps us improve Applausible and make it even better for everyone. We appreciate your support!
+Your feedback helps us improve AppConnectr and make it even better for everyone. We appreciate your support!
 
 ---
 
